@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  color:#17e8e5;
+  font-size: 40px;
+  text-align: center;
+  border: 5px outset yellow;
+  
+}
+
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+p {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  
+}
+table {
+  color: #000000;
+  font-size: 20px;
+  padding: 5px;
+  
+  border-collapse: collapse;
+  border: 5px outset yellow;
+  
+}
+.velikonoce {
+  color: red
+}
